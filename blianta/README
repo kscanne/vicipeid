@@ -29,11 +29,9 @@ but comes through this scripts as 15 Meitheamh!
 
 Run on laptop as
 
-$ python dates.py blianta breith dryrun
-$ python dates.py blianta bas dryrun
-$ python dates.py laethanta breith dryrun
-$ python dates.py laethanta bas dryrun
+$ python dates.py blianta breith dryrun | more
+$ python dates.py blianta bas dryrun | more
+$ python dates.py laethanta breith dryrun | more
+$ python dates.py laethanta bas dryrun | more
 
-(good to pipe through "more" for the dryrun...)
-
-And then with "live" in place of "dryrun"
+And then with "live" in place of "dryrun" (no need for "more")
