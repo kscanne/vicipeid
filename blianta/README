@@ -34,4 +34,8 @@ $ python dates.py blianta bas dryrun | more
 $ python dates.py laethanta breith dryrun | more
 $ python dates.py laethanta bas dryrun | more
 
+If there are problems in the dry run (usually dupes being added
+when a page has been renamed), easiest to fix those manually
+*before* running the bot live.
+
 And then with "live" in place of "dryrun" (no need for "more")
