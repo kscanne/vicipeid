@@ -49,7 +49,7 @@ SELECT DISTINCT ?item ?articlename ?itemLabel ?itemDescription ?bday  WHERE {
       schema:name ?articlename .
       SERVICE wikibase:label
       {
-       bd:serviceParam wikibase:language "ga" .
+       bd:serviceParam wikibase:language "ga,mul" .
        ?item rdfs:label ?itemLabel .
        ?item schema:description ?itemDescription .
       }
