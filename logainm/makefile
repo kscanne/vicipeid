@@ -1,5 +1,7 @@
 # logainm.tsv has placenames scraped from logainm.ie and is a maintained file
 # The remainder are built from Wikidata using targets below
+all: tocrawl.txt todo.csv
+
 qids.tsv: wd.pl
 	perl wd.pl | sed 's/^Q//' | sort -k1,1 -n | sed 's/^/Q/' > $@
 
