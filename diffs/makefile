@@ -3,7 +3,7 @@
 # just need to do:
 # $ make distclean
 # $ make
-all: titles.txt hussey.tsv primemovers.tsv
+all: titles.txt hussey.tsv primemovers.tsv edits-processed.tsv
 
 gawiki-latest-pages-meta-history.xml:
 	bunzip2 gawiki-latest-pages-meta-history.xml.bz2
@@ -27,7 +27,7 @@ edits.json: gawiki-latest-pages-meta-history.xml parse.pl nahusaid.txt
 	cat gawiki-latest-pages-meta-history.xml | perl parse.pl -d >> $@
 	sed -i '$$ s/,$$/\n]/' $@
 
-edits-processed.tsv: edits.json ${HOME}/seal/gaelspell/gaelspell.txt ${HOME}/gaeilge/vicipeid/olleagar/OK.txt ${HOME}/seal/caighdean/pairs.txt ${HOME}/gaeilge/parsail/treebank/tagdict.tsv procedits.pl
+edits-processed.tsv: edits.json ${HOME}/seal/gaelspell/gaelspell.txt ../olleagar/OK.txt ${HOME}/seal/caighdean/pairs.txt ${HOME}/gaeilge/parsail/treebank/tagdict.tsv procedits.pl
 	cat edits.json | perl procedits.pl > $@
 
 clean:
