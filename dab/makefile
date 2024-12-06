@@ -6,6 +6,7 @@
 # daoine-dabneeded.txt: list of personal names without DAB page
 #
 # NB: The problems.tsv target is self-contained; no olleagar dump needed.
+all: problems.tsv logainm-dabneeded.txt daoine-dabneeded.txt
 
 problems.tsv: dab-links.tsv oklinks.tsv
 	cat dab-links.tsv | egrep -v '\(idirdhealú\)$$' | tr "\t" "~" | egrep -v '^(.+), .*~\1$$' | egrep -v '^(.+) \(.*\)~\1$$' | tr "~" "\t" | keepif -n oklinks.tsv > $@
