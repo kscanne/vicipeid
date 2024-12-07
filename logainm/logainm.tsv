@@ -2672,7 +2672,7 @@
 3056	Baile Arúil	Haroldstown
 3057	-	Nashesquarter
 3058	-	Raheen
-3059	-	Stralusky
+3059	An Srath Loiscthe	Stralusky
 3060	-	Ballycook
 3061	-	Ballyhacket Lower
 3062	-	Ballyhacket Upper
@@ -2831,7 +2831,7 @@
 3234	-	Huntington
 3235	-	Kilcarry
 3236	-	Monaughrim
-3237	-	Ballycormick
+3237	Baile Mhic Cormaic	Ballycormick
 3238	-	Corries or Corrymore
 3239	-	Heath
 3240	Leamhdhroim	Lorum
@@ -3128,7 +3128,7 @@
 3572	-	Rathgeran
 3573	Baile na mBreatnach	Walshtown or Ballynabranagh
 3574	-	Aghnaglear
-3575	-	Ballycrinnigan
+3575	Baile Uí Chruinneagáin	Ballycrinnigan
 3576	-	Ballyknock
 3577	-	Ballyknockcrumpin
 3578	-	Ballynalour
@@ -4466,7 +4466,7 @@
 4929	Droim Corr	Drumcor
 4930	-	Drumherriff North
 4931	Coillidh Rú	Killyrue
-4932	-	Lattacapple
+4932	Leacht an Chapaill	Lattacapple
 4933	-	Longfield
 4934	-	Magherintemple
 4935	-	Ronard
@@ -21100,7 +21100,7 @@
 22108	An Leathfhearann Theas	Laharan South
 22109	Leitir	Letter
 22110	-	Moneyduff
-22111	-	Oghermong
+22111	Eochair Mong	Oghermong
 22112	An Rinn Aird	Reenard
 22113	-	Rehill
 22114	-	Tooreenmore
@@ -22215,7 +22215,7 @@
 23238	-	Quaybaun
 23239	-	Scartnamackagh
 23240	Tuairín na Sliogán	Tooreennasliggaun
-23241	-	Treanoughtragh
+23241	An Trian Uachtarach	Treanoughtragh
 23242	-	Alohart
 23243	-	Ards
 23244	-	Cappaganneen
@@ -22385,7 +22385,7 @@
 23409	-	Knockeennagowan
 23410	-	Knockysheehan
 23411	-	Lisbabe
-23412	-	Raheen
+23412	An Ráithín	Raheen
 23413	Ros an Chrú	Rossacroo
 23414	-	Shronedarragh
 23415	Béal Átha Málais	Ballymalis
@@ -22403,7 +22403,7 @@
 23427	-	Slievegaura
 23428	-	Coolbaun
 23429	Cúil Lice	Coollick
-23430	-	Leamnaguila
+23430	Léim na Gaibhle	Leamnaguila
 23431	-	Scart
 23432	-	Ardagh
 23433	Baile Uí Dhoinnléibhe	Ballydeenlea
@@ -22527,7 +22527,7 @@
 23558	An Leathfhearann	Laharan
 23559	An Ladhar	Lyre
 23560	-	Ranaleen
-23561	-	Ranalough
+23561	Ráth na Loch	Ranalough
 23562	An Seanmhuileann	Shanawillen
 23563	Tuar na nOlltach	Toornanoulagh
 23564	Ard Muiníl	Ardmoneel
@@ -37553,7 +37553,7 @@
 39078	Maigh Ráth	Moyrath
 39079	-	Neillstown
 39080	-	Portanab
-39081	-	Pubblestown
+39081	Baile Phobuail	Pubblestown
 39082	-	Woodtown (Abbott)
 39083	Baile Íomhair	Ballivor
 39084	Baile Chearráin Mór	Carranstown Great
@@ -37570,7 +37570,7 @@
 39095	-	Portlester
 39096	Baile Roibín	Robinstown
 39097	Dún Uabhair	Donore
-39098	-	Batterstown
+39098	Baile an Bhóthair	Batterstown
 39099	-	Derryconor
 39101	An Ghlaic	Glack
 39102	-	Kilmur
@@ -42901,7 +42901,7 @@
 44544	-	Greyfield
 44545	-	Kildarganmore
 44546	-	Kilnaharry
-44547	-	Ardsallagh
+44547	Ard Salach	Ardsallagh
 44548	-	Battlefield
 44549	-	Carrowmaclenany
 44550	-	Cloonagh
@@ -52562,7 +52562,7 @@
 54595	-	Clogh Lower
 54596	-	Clogh Upper
 54597	-	Cloghcastle
-54598	-	Deerpark
+54598	Páirc na bhFianna	Deerpark
 54599	-	Holdenstown Lower
 54600	-	Holdenstown Upper
 54601	-	Irongrange Lower
@@ -52776,7 +52776,7 @@
 54809	-	Camarahill South
 54810	-	Cannow
 54811	-	Cannow Mountain
-54812	-	Clornagh
+54812	Clocharnach	Clornagh
 54813	Cuan	Coan
 54814	-	Colliga
 54815	-	Crissadaun
@@ -53457,7 +53457,7 @@
 55502	-	Johnstown South
 55503	-	Keeloge
 55504	-	Kilbride
-55505	-	Killeagh
+55505	An Choill Liath	Killeagh
 55506	-	Killiniskyduff
 55507	-	Raheen
 55508	-	Seabank
@@ -56579,7 +56579,7 @@
 59197	-	Edenmore
 59198	-	Erveny
 59199	-	Finlane
-59200	-	Florence Court Demense
+59200	-	Florence Court Demesne
 59201	-	Gallagh
 59202	-	Garrifly
 59203	-	Gortalughany
@@ -57167,7 +57167,7 @@
 59794	-	Dernagore
 59795	-	Derrybrick
 59796	-	Derrycanon
-59797	-	Derrycharron
+59797	-	Derrychorran
 59798	-	Derrychree
 59799	-	Derrygurdry
 59800	-	Derryhooly
@@ -60568,7 +60568,7 @@
 63296	An Eiscir Mhór	Eskermore
 63297	Eiscir na mBróg	Eskernabrougue
 63298	Eiscreach	Eskragh
-63299	-	Fardross Demense
+63299	-	Fardross Demesne
 63300	-	Fardross Mountain
 63301	-	Farranetra
 63302	-	Fernaghandrum
@@ -64875,6 +64875,7 @@
 116367	An Aighlinn	River Ilen
 116422	Abhainn na Loinge	Lung River
 116425	An Laidhrín	Lyreen River
+116460	An Rí	Newry River
 116483	Abhainn na Baoi	Owenboy River
 116500	Abhainn Eidhneach	Oweniny River
 116506	An Abhainn Mhór	Owenmore River
@@ -73269,6 +73270,7 @@
 1416527	Cill an Dísirt	Killadysert
 1416528	Cill Dalua	Killaloe
 1416529	Cill Mhichíl	Kilmihil
+1416530	Cill Mhuire	Kilmurry
 1416531	An Leacht	Lehinch
 1416533	Lios Ceannúir	Liscannor
 1416534	Lios Dúin Bhearna	Lisdoonvarna
@@ -73524,6 +73526,7 @@
 1417698	-	Tirgoland
 1417699	-	Derryware
 1417701	-	Ballyguddin
+1417702	Dún Geimhin	Dungiven
 1417703	-	Hass
 1417704	-	Magheraboy
 1417705	-	Cashel
@@ -73704,6 +73707,7 @@
 1436703	Páirc Náisiúnta Bhoirne	Burren National Park
 1436755	Coill na Crannaí	Kilnacrandy
 1436759	-	Ballymacnvein
+1436778	Páirc Náisiúnta Néifinne Fiáine	Wild Nephin National Park
 1436780	-	Churchtown
 1436808	An Screabach	Scrabby
 1436843	-	Corwin
